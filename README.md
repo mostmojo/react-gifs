@@ -1,5 +1,3 @@
-👉 https://mostmojo.github.io/react-gifs/ 👉 search 🔍 'Doge' and watch 🐶!
-
 # react-boilerplate
 
 Simple react starter with the following config:
@@ -30,3 +28,6 @@ To build and deploy your app to `gh-pages` branch on the GitHub repo:
 ```bash
 yarn deploy
 ```
+## Fun
+
+👉 https://mostmojo.github.io/react-gifs/ 👉 search 🔍 'Doge' and watch 🐶!
